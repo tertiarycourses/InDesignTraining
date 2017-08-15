@@ -6,6 +6,7 @@ These are the exercise files used for [Adobe InDesign CC Essential Training](htt
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/adobe-indesign-cc-essential-training.html
+https://www.tertiarycourses.com.my/adobe-indesign-cc-essential-training-in-malayisa.html
 
 <p><strong>Module 1 Get Started</strong></p>
 <ul>
